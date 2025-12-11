@@ -1,0 +1,13 @@
+{
+  "itemGroup.vanillabiomes": "Example Mod Tab",
+  "block.vanillabiomes.example_block": "Example Block",
+  "item.vanillabiomes.example_item": "Example Item",
+
+  "vanillabiomes.configuration.title": "Simply Vanilla Biomes Configs",
+  "vanillabiomes.configuration.section.vanillabiomes.common.toml": "Simply Vanilla Biomes Configs",
+  "vanillabiomes.configuration.section.vanillabiomes.common.toml.title": "Simply Vanilla Biomes Configs",
+  "vanillabiomes.configuration.items": "Item List",
+  "vanillabiomes.configuration.logDirtBlock": "Log Dirt Block",
+  "vanillabiomes.configuration.magicNumberIntroduction": "Magic Number Text",
+  "vanillabiomes.configuration.magicNumber": "Magic Number"
+}
