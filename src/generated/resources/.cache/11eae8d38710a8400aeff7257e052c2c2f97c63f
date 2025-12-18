@@ -1,0 +1,19 @@
+// 1.21.1	2025-12-17T22:11:05.3082729	Tags for minecraft:block mod id vanillabiomes
+ee0ce01b78982962c0ad6669f527019cd3742b00 data/minecraft/tags/block/ceiling_hanging_signs.json
+881a36c94d298f468b5aaf95987033ea30b2e76a data/minecraft/tags/block/fence_gates.json
+c831d676cd096b9419f2b659921adb88a050d7fe data/minecraft/tags/block/leaves.json
+c9ee022a4395816083494d99d52346825b7ac00e data/minecraft/tags/block/logs_that_burn.json
+c831d676cd096b9419f2b659921adb88a050d7fe data/minecraft/tags/block/mineable/hoe.json
+f44c230e1d182aec521cfad2d4d8aa01594d9aee data/minecraft/tags/block/overworld_natural_logs.json
+b753870cb7c5666b1652ebe9b783446a4b0231bf data/minecraft/tags/block/planks.json
+9f290622fd10e247001f5d044a6e552f7186bf9a data/minecraft/tags/block/standing_signs.json
+f4563dc5871ef03a13b05e325c4d66e909431b2c data/minecraft/tags/block/wall_hanging_signs.json
+aa1af47826f5f7537ffe8b724892e9897e0638fc data/minecraft/tags/block/wall_signs.json
+219d3847bf198268bcddabe4ca8b6883afa83b9b data/minecraft/tags/block/wooden_buttons.json
+a69ad5063c5ee4af320f7d2cecfac0e33e4f496f data/minecraft/tags/block/wooden_doors.json
+356f2a3733fdeaa30e9419f1feb12071127885f3 data/minecraft/tags/block/wooden_fences.json
+180946314aeadcc0c2142280e2bb5027005fc37d data/minecraft/tags/block/wooden_pressure_plates.json
+23a18aacfb49e39ab80762d53ce61c0e2fe7f3c7 data/minecraft/tags/block/wooden_slabs.json
+a17c93e86747d24d48630dc051e928f735f84a27 data/minecraft/tags/block/wooden_stairs.json
+c5a12bb5a278a39ccb48c7f2ddd5d2384e777dfc data/minecraft/tags/block/wooden_trapdoors.json
+c9ee022a4395816083494d99d52346825b7ac00e data/vanillabiomes/tags/block/aspen_logs.json

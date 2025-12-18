@@ -1,36 +1,15 @@
 package com.timeshipmodding.vanillabiomes;
 
+import com.timeshipmodding.vanillabiomes.content.block.entity.registries.ModBlockEntities;
+import com.timeshipmodding.vanillabiomes.content.block.registries.ModBlocks;
 import com.timeshipmodding.vanillabiomes.content.creativetab.VanillaBiomesTab;
+import com.timeshipmodding.vanillabiomes.content.entity.registries.ModEntities;
+import com.timeshipmodding.vanillabiomes.content.item.registries.ModItems;
+import net.neoforged.bus.api.IEventBus;
+import net.neoforged.fml.common.Mod;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
-
-import net.minecraft.core.registries.BuiltInRegistries;
-import net.minecraft.core.registries.Registries;
-import net.minecraft.network.chat.Component;
-import net.minecraft.world.food.FoodProperties;
-import net.minecraft.world.item.BlockItem;
-import net.minecraft.world.item.CreativeModeTab;
-import net.minecraft.world.item.CreativeModeTabs;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.level.block.Block;
-import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.block.state.BlockBehaviour;
-import net.minecraft.world.level.material.MapColor;
-import net.neoforged.api.distmarker.Dist;
-import net.neoforged.bus.api.IEventBus;
-import net.neoforged.bus.api.SubscribeEvent;
-import net.neoforged.fml.common.Mod;
-import net.neoforged.fml.config.ModConfig;
-import net.neoforged.fml.ModContainer;
-import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
-import net.neoforged.neoforge.common.NeoForge;
-import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
-import net.neoforged.neoforge.event.server.ServerStartingEvent;
-import net.neoforged.neoforge.registries.DeferredBlock;
-import net.neoforged.neoforge.registries.DeferredHolder;
-import net.neoforged.neoforge.registries.DeferredItem;
-import net.neoforged.neoforge.registries.DeferredRegister;
 
 @Mod(VanillaBiomes.MODID)
 public class VanillaBiomes {
@@ -39,6 +18,10 @@ public class VanillaBiomes {
 
     public VanillaBiomes(IEventBus modEventBus) {
         // Register registry classes
+        ModBlocks.BLOCKS.register(modEventBus);
+        ModBlockEntities.BLOCK_ENTITIES.register(modEventBus);
+        ModEntities.ENTITY_TYPES.register(modEventBus);
+        ModItems.ITEMS.register(modEventBus);
 
         // Register creative mode tab
         VanillaBiomesTab.CREATIVE_MODE_TABS.register(modEventBus);

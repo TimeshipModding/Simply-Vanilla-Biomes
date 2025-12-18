@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "vanillabiomes:block/aspen_planks",
+    "side": "vanillabiomes:block/aspen_planks",
+    "top": "vanillabiomes:block/aspen_planks"
+  }
+}

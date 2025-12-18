@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "vanillabiomes:block/aspen_planks"
+  }
+}

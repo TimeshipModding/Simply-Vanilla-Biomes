@@ -1,0 +1,5 @@
+// 1.21.1	2025-12-17T22:11:05.2997645	Tags for minecraft:item mod id vanillabiomes
+23d210b3358f88974f451cd31415331de9fd6eb2 data/minecraft/tags/item/boats.json
+29817b2499da53c8a264ea942157b364fb66e344 data/minecraft/tags/item/chest_boats.json
+c9ee022a4395816083494d99d52346825b7ac00e data/minecraft/tags/item/logs_that_burn.json
+c9ee022a4395816083494d99d52346825b7ac00e data/vanillabiomes/tags/item/aspen_logs.json

@@ -5,6 +5,7 @@ import com.timeshipmodding.vanillabiomes.datagen.DataItemModels;
 import com.timeshipmodding.vanillabiomes.datagen.DataRecipes;
 import com.timeshipmodding.vanillabiomes.datagen.loot.DataBlockLootTables;
 import com.timeshipmodding.vanillabiomes.datagen.tags.DataBlockTags;
+import com.timeshipmodding.vanillabiomes.datagen.tags.DataItemTags;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.data.PackOutput;
@@ -36,7 +37,7 @@ public class DataGenerationEvent {
 
         BlockTagsProvider blockTagsProvider = new DataBlockTags(packOutput, lookupProvider, existingFileHelper);
         generator.addProvider(event.includeServer(), blockTagsProvider);
-        //generator.addProvider(event.includeServer(), new DataItemTags(packOutput, lookupProvider, blockTagsProvider.contentsGetter(), existingFileHelper));
+        generator.addProvider(event.includeServer(), new DataItemTags(packOutput, lookupProvider, blockTagsProvider.contentsGetter(), existingFileHelper));
 
         generator.addProvider(event.includeClient(), new DataBlockStates(packOutput, existingFileHelper));
         generator.addProvider(event.includeClient(), new DataItemModels(packOutput, existingFileHelper));
