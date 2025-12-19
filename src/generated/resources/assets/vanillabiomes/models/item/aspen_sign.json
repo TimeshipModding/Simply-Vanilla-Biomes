@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanillabiomes:item/aspen_sign"
+    "layer0": "naturalbiomes:item/aspen_sign"
   }
 }

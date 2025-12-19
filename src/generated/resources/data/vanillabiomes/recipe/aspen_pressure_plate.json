@@ -3,7 +3,7 @@
   "category": "redstone",
   "key": {
     "#": {
-      "item": "vanillabiomes:aspen_planks"
+      "item": "naturalbiomes:aspen_planks"
     }
   },
   "pattern": [
@@ -11,6 +11,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "vanillabiomes:aspen_pressure_plate"
+    "id": "naturalbiomes:aspen_pressure_plate"
   }
 }

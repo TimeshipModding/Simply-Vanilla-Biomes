@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanillabiomes:item/aspen_chest_boat"
+    "layer0": "naturalbiomes:item/aspen_chest_boat"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/fence_side",
   "textures": {
-    "texture": "vanillabiomes:block/aspen_planks"
+    "texture": "naturalbiomes:block/aspen_planks"
   }
 }

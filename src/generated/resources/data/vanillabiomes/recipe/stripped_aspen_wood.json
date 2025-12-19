@@ -4,7 +4,7 @@
   "group": "bark",
   "key": {
     "#": {
-      "item": "vanillabiomes:stripped_aspen_log"
+      "item": "naturalbiomes:stripped_aspen_log"
     }
   },
   "pattern": [
@@ -13,6 +13,6 @@
   ],
   "result": {
     "count": 3,
-    "id": "vanillabiomes:stripped_aspen_wood"
+    "id": "naturalbiomes:stripped_aspen_wood"
   }
 }

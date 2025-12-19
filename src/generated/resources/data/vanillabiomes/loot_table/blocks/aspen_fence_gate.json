@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillabiomes:aspen_fence_gate"
+          "name": "naturalbiomes:aspen_fence_gate"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "vanillabiomes:blocks/aspen_fence_gate"
+  "random_sequence": "naturalbiomes:blocks/aspen_fence_gate"
 }

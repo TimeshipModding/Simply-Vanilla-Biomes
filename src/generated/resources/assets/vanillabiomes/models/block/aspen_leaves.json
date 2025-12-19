@@ -2,6 +2,6 @@
   "parent": "minecraft:block/leaves",
   "render_type": "minecraft:cutout",
   "textures": {
-    "all": "vanillabiomes:block/aspen_leaves"
+    "all": "naturalbiomes:block/aspen_leaves"
   }
 }

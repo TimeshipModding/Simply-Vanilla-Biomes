@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillabiomes:aspen_stairs"
+          "name": "naturalbiomes:aspen_stairs"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "vanillabiomes:blocks/aspen_stairs"
+  "random_sequence": "naturalbiomes:blocks/aspen_stairs"
 }

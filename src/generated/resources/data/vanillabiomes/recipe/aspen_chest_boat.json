@@ -7,11 +7,11 @@
       "item": "minecraft:chest"
     },
     {
-      "item": "vanillabiomes:aspen_planks"
+      "item": "naturalbiomes:aspen_planks"
     }
   ],
   "result": {
     "count": 1,
-    "id": "vanillabiomes:aspen_chest_boat"
+    "id": "naturalbiomes:aspen_chest_boat"
   }
 }

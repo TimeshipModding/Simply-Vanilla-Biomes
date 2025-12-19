@@ -4,7 +4,7 @@
   "group": "boat",
   "key": {
     "#": {
-      "item": "vanillabiomes:aspen_planks"
+      "item": "naturalbiomes:aspen_planks"
     }
   },
   "pattern": [
@@ -13,6 +13,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "vanillabiomes:aspen_boat"
+    "id": "naturalbiomes:aspen_boat"
   }
 }

@@ -4,7 +4,7 @@
   "group": "hanging_sign",
   "key": {
     "#": {
-      "item": "vanillabiomes:aspen_planks"
+      "item": "naturalbiomes:aspen_planks"
     },
     "X": {
       "item": "minecraft:chain"
@@ -17,6 +17,6 @@
   ],
   "result": {
     "count": 6,
-    "id": "vanillabiomes:aspen_hanging_sign"
+    "id": "naturalbiomes:aspen_hanging_sign"
   }
 }

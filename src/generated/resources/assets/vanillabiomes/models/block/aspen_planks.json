@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "vanillabiomes:block/aspen_planks"
+    "all": "naturalbiomes:block/aspen_planks"
   }
 }

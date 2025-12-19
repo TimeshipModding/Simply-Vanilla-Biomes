@@ -6,7 +6,7 @@
       "item": "minecraft:stick"
     },
     "W": {
-      "item": "vanillabiomes:aspen_planks"
+      "item": "naturalbiomes:aspen_planks"
     }
   },
   "pattern": [
@@ -15,6 +15,6 @@
   ],
   "result": {
     "count": 3,
-    "id": "vanillabiomes:aspen_fence"
+    "id": "naturalbiomes:aspen_fence"
   }
 }

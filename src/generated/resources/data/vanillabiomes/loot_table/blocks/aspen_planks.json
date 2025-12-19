@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillabiomes:aspen_planks"
+          "name": "naturalbiomes:aspen_planks"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "vanillabiomes:blocks/aspen_planks"
+  "random_sequence": "naturalbiomes:blocks/aspen_planks"
 }

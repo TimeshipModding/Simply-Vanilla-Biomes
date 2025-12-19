@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillabiomes:aspen_pressure_plate"
+          "name": "naturalbiomes:aspen_pressure_plate"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "vanillabiomes:blocks/aspen_pressure_plate"
+  "random_sequence": "naturalbiomes:blocks/aspen_pressure_plate"
 }

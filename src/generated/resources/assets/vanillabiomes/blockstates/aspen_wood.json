@@ -1,15 +1,15 @@
 {
   "variants": {
     "axis=x": {
-      "model": "vanillabiomes:block/aspen_wood_horizontal",
+      "model": "naturalbiomes:block/aspen_wood_horizontal",
       "x": 90,
       "y": 90
     },
     "axis=y": {
-      "model": "vanillabiomes:block/aspen_wood"
+      "model": "naturalbiomes:block/aspen_wood"
     },
     "axis=z": {
-      "model": "vanillabiomes:block/aspen_wood_horizontal",
+      "model": "naturalbiomes:block/aspen_wood_horizontal",
       "x": 90
     }
   }

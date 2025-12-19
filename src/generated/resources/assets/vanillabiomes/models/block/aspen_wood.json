@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_column",
   "textures": {
-    "end": "vanillabiomes:block/aspen_log",
-    "side": "vanillabiomes:block/aspen_log"
+    "end": "naturalbiomes:block/aspen_log",
+    "side": "naturalbiomes:block/aspen_log"
   }
 }

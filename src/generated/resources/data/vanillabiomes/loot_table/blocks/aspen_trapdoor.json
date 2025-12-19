@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillabiomes:aspen_trapdoor"
+          "name": "naturalbiomes:aspen_trapdoor"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "vanillabiomes:blocks/aspen_trapdoor"
+  "random_sequence": "naturalbiomes:blocks/aspen_trapdoor"
 }

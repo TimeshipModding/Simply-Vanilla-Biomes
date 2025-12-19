@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "vanillabiomes:block/aspen_hanging_sign"
+      "model": "naturalbiomes:block/aspen_hanging_sign"
     }
   }
 }

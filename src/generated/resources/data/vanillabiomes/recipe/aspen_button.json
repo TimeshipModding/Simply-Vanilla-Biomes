@@ -3,11 +3,11 @@
   "category": "redstone",
   "ingredients": [
     {
-      "item": "vanillabiomes:aspen_planks"
+      "item": "naturalbiomes:aspen_planks"
     }
   ],
   "result": {
     "count": 1,
-    "id": "vanillabiomes:aspen_button"
+    "id": "naturalbiomes:aspen_button"
   }
 }

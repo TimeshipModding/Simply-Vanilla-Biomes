@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillabiomes:aspen_sign"
+          "name": "naturalbiomes:aspen_sign"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "vanillabiomes:blocks/aspen_wall_sign"
+  "random_sequence": "naturalbiomes:blocks/aspen_wall_sign"
 }

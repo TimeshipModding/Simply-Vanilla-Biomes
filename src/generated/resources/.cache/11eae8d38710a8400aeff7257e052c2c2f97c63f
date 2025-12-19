@@ -1,4 +1,4 @@
-// 1.21.1	2025-12-17T22:11:05.3082729	Tags for minecraft:block mod id vanillabiomes
+// 1.21.1	2025-12-17T22:11:05.3082729	Tags for minecraft:block mod id naturalbiomes
 ee0ce01b78982962c0ad6669f527019cd3742b00 data/minecraft/tags/block/ceiling_hanging_signs.json
 881a36c94d298f468b5aaf95987033ea30b2e76a data/minecraft/tags/block/fence_gates.json
 c831d676cd096b9419f2b659921adb88a050d7fe data/minecraft/tags/block/leaves.json
@@ -16,4 +16,4 @@ a69ad5063c5ee4af320f7d2cecfac0e33e4f496f data/minecraft/tags/block/wooden_doors.
 23a18aacfb49e39ab80762d53ce61c0e2fe7f3c7 data/minecraft/tags/block/wooden_slabs.json
 a17c93e86747d24d48630dc051e928f735f84a27 data/minecraft/tags/block/wooden_stairs.json
 c5a12bb5a278a39ccb48c7f2ddd5d2384e777dfc data/minecraft/tags/block/wooden_trapdoors.json
-c9ee022a4395816083494d99d52346825b7ac00e data/vanillabiomes/tags/block/aspen_logs.json
+c9ee022a4395816083494d99d52346825b7ac00e data/naturalbiomes/tags/block/aspen_logs.json

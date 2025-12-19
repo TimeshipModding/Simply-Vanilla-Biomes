@@ -13,18 +13,18 @@
           "type": "minecraft:item",
           "conditions": [
             {
-              "block": "vanillabiomes:aspen_door",
+              "block": "naturalbiomes:aspen_door",
               "condition": "minecraft:block_state_property",
               "properties": {
                 "half": "lower"
               }
             }
           ],
-          "name": "vanillabiomes:aspen_door"
+          "name": "naturalbiomes:aspen_door"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "vanillabiomes:blocks/aspen_door"
+  "random_sequence": "naturalbiomes:blocks/aspen_door"
 }

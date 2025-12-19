@@ -11,7 +11,7 @@
               "add": false,
               "conditions": [
                 {
-                  "block": "vanillabiomes:aspen_slab",
+                  "block": "naturalbiomes:aspen_slab",
                   "condition": "minecraft:block_state_property",
                   "properties": {
                     "type": "double"
@@ -25,11 +25,11 @@
               "function": "minecraft:explosion_decay"
             }
           ],
-          "name": "vanillabiomes:aspen_slab"
+          "name": "naturalbiomes:aspen_slab"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "vanillabiomes:blocks/aspen_slab"
+  "random_sequence": "naturalbiomes:blocks/aspen_slab"
 }

@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "vanillabiomes:aspen_log"
+            "items": "naturalbiomes:aspen_log"
           }
         ]
       },
@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "vanillabiomes:aspen_wood"
+        "recipe": "naturalbiomes:aspen_wood"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "vanillabiomes:aspen_wood"
+      "naturalbiomes:aspen_wood"
     ]
   }
 }

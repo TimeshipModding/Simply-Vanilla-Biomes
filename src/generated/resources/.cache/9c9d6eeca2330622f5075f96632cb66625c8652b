@@ -1,8 +1,8 @@
-// 1.21.1	2025-12-17T22:11:05.2962311	Item Models: vanillabiomes
-30c3eda201788298a40e2d592fc893a74747cef4 assets/vanillabiomes/models/item/aspen_boat.json
-2969619b47e26a10e62af98466a884be70096e2f assets/vanillabiomes/models/item/aspen_button.json
-c4436fdb832ce05a67e433a16e89d9a8f767eea8 assets/vanillabiomes/models/item/aspen_chest_boat.json
-0e6c40ccb40e5506531344876e5b36e080ab9fef assets/vanillabiomes/models/item/aspen_door.json
-e6978ad34955ad396054ade3d374b5ff1a5c613a assets/vanillabiomes/models/item/aspen_fence.json
-e24050bf3603eb211e3d4ee44dbf88ae0b428e85 assets/vanillabiomes/models/item/aspen_hanging_sign.json
-1dc2093dd3a1782944094e5cb8cd1c3ba3d048d6 assets/vanillabiomes/models/item/aspen_sign.json
+// 1.21.1	2025-12-17T22:11:05.2962311	Item Models: naturalbiomes
+30c3eda201788298a40e2d592fc893a74747cef4 assets/naturalbiomes/models/item/aspen_boat.json
+2969619b47e26a10e62af98466a884be70096e2f assets/naturalbiomes/models/item/aspen_button.json
+c4436fdb832ce05a67e433a16e89d9a8f767eea8 assets/naturalbiomes/models/item/aspen_chest_boat.json
+0e6c40ccb40e5506531344876e5b36e080ab9fef assets/naturalbiomes/models/item/aspen_door.json
+e6978ad34955ad396054ade3d374b5ff1a5c613a assets/naturalbiomes/models/item/aspen_fence.json
+e24050bf3603eb211e3d4ee44dbf88ae0b428e85 assets/naturalbiomes/models/item/aspen_hanging_sign.json
+1dc2093dd3a1782944094e5cb8cd1c3ba3d048d6 assets/naturalbiomes/models/item/aspen_sign.json

@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/door_bottom_left_open",
   "textures": {
-    "bottom": "vanillabiomes:block/aspen_door_bottom",
-    "top": "vanillabiomes:block/aspen_door_top"
+    "bottom": "naturalbiomes:block/aspen_door_bottom",
+    "top": "naturalbiomes:block/aspen_door_top"
   }
 }

@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanillabiomes:stripped_aspen_wood"
+          "name": "naturalbiomes:stripped_aspen_wood"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "vanillabiomes:blocks/stripped_aspen_wood"
+  "random_sequence": "naturalbiomes:blocks/stripped_aspen_wood"
 }

@@ -4,11 +4,11 @@
   "group": "planks",
   "ingredients": [
     {
-      "tag": "vanillabiomes:aspen_logs"
+      "tag": "naturalbiomes:aspen_logs"
     }
   ],
   "result": {
     "count": 4,
-    "id": "vanillabiomes:aspen_planks"
+    "id": "naturalbiomes:aspen_planks"
   }
 }

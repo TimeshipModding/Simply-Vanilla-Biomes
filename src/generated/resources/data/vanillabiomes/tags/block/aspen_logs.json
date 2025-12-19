@@ -1,8 +1,8 @@
 {
   "values": [
-    "vanillabiomes:aspen_log",
-    "vanillabiomes:aspen_wood",
-    "vanillabiomes:stripped_aspen_log",
-    "vanillabiomes:stripped_aspen_wood"
+    "naturalbiomes:aspen_log",
+    "naturalbiomes:aspen_wood",
+    "naturalbiomes:stripped_aspen_log",
+    "naturalbiomes:stripped_aspen_wood"
   ]
 }
