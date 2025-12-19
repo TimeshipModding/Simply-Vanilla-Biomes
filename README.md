@@ -1,1 +1,1 @@
-# Simply-Vanilla-Biomes
+# Simply-Natural-Biomes
