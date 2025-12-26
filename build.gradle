@@ -9,7 +9,7 @@ tasks.named('wrapper', Wrapper).configure {
     distributionType = Wrapper.DistributionType.BIN
 }
 
-version = "${minecraft_version}${version_suffix}${mod_version}"
+version = mod_version
 group = mod_group_id
 
 repositories {
